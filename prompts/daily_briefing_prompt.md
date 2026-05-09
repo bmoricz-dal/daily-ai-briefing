@@ -1,6 +1,6 @@
-# Daily AI, BI, PhD & Faith Briefing Prompt
+# Daily AI, BI, research & reflection section Prompt
 
-Generate Dal’s Daily AI, BI, PhD & Faith Briefing for today.
+Generate Daily AI, BI & Research Briefing for today.
 
 Use the latest source pack from:
 
@@ -18,12 +18,12 @@ Output structure:
 2. What changed since yesterday
 3. News radar
 4. Senior analyst insight
-5. DCS-style practical implication
-6. Academic paper brief relevant to my PhD topic
+5. FMCG / sales & distribution practical implication
+6. Academic paper brief relevant to the research theme
 7. Technology learning bite
 8. AI engineering concept
-9. Bible verse and reflection
-10. Beginner German/Chinese language drill
+9. Daily reflection
+10. Beginner German language drill
 11. Source quality table
 12. Memory update
 
