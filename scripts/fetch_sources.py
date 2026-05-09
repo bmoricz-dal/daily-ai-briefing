@@ -322,7 +322,7 @@ def write_outputs(results):
     output = {
         "date": TODAY,
         "generated_utc": dt.datetime.utcnow().isoformat(),
-        "purpose": "Daily source pack for AI, BI, PhD and faith briefing.",
+        "purpose": "Daily source pack for AI, BI, Research and Reflection briefing.",
         "source_quality_rule": "Primary company sources and academic metadata are useful, but must be interpreted critically. Company blogs are not neutral. Preprints are not peer-reviewed.",
         "items": results,
     }
@@ -338,7 +338,7 @@ def write_outputs(results):
     lines = [
         f"# Daily Source Pack — {TODAY}",
         "",
-        "Purpose: source pack for Daily AI, BI, PhD & Faith Briefing.",
+        "Purpose: source pack for Daily AI, BI, Research & Reflection Briefing.",
         "",
         "Source quality rule: company blogs are useful primary signals but are not neutral; academic preprints are useful early signals but not necessarily peer-reviewed.",
         "",
