@@ -18,23 +18,64 @@ Also read these memory and control files:
 
 ## Output and archive instruction
 
-Preferred output format: clean Markdown.
+The preferred final report format is PDF.
 
-If GitHub write access is available in the current ChatGPT session, create or update this file after generating the briefing:
+Produce two separate outputs:
 
-/reports/daily/YYYY-MM-DD-daily-briefing.md
+### Output 1 - PDF briefing
 
-Use today's date in ISO format. Example:
+Create a polished PDF briefing titled:
 
-/reports/daily/2026-05-09-daily-briefing.md
+Daily AI, BI & Research Briefing - YYYY-MM-DD
 
-If GitHub write access is not available, output the full Markdown briefing in the chat and clearly say:
+The PDF should be suitable for upload to:
 
-"GitHub write access was not available in this run. Copy this Markdown into /reports/daily/YYYY-MM-DD-daily-briefing.md."
+/reports/daily/pdf/YYYY-MM-DD-daily-briefing.pdf
 
-Do not output strange citation placeholder characters. If source citations cannot be rendered cleanly, use normal Markdown links or cite source titles and URLs from the source pack.
+The PDF should include:
+- Executive brief
+- What changed since yesterday
+- News radar
+- Senior analyst insight
+- FMCG / sales & distribution practical implication
+- Academic paper brief
+- Technology learning bite
+- AI engineering concept
+- Daily reflection
+- Beginner German language drill
+- Source quality review
 
-PDF note: do not try to create a PDF unless a PDF-generation tool is explicitly available. The Markdown report is the source-of-truth archive. A PDF can be generated later from the Markdown if needed.
+Use clean formatting, readable headings, bullets, and normal source links. Do not output strange citation placeholder symbols.
+
+### Output 2 - Markdown memory update
+
+After the PDF, output a separate Markdown block that can be copied directly into:
+
+/data/memory/memory_log.md
+
+Use this exact structure:
+
+## YYYY-MM-DD
+
+### Main theme
+...
+
+### Strongest insight
+...
+
+### Strongest source signal
+...
+
+### Academic note
+...
+
+### Source weaknesses
+...
+
+### Next issue angle
+...
+
+If PDF creation is unavailable, output the full briefing as clean GitHub-ready Markdown and clearly state that the user should convert it to PDF manually.
 
 ## Briefing structure
 
