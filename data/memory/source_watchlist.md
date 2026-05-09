@@ -62,7 +62,7 @@ Use for:
 - dataflows
 - automation
 - SQL/data engineering concepts
-- DCS-style workflow improvement
+- FMCG / sales & distribution-style workflow improvement
 
 Caution:
 Vendor blogs are useful for practical learning but should not be treated as independent market evidence.
@@ -95,7 +95,7 @@ Priority search themes:
 
 Use for:
 - daily academic paper brief
-- PhD literature building
+- Research literature building
 - research gap refinement
 
 Caution:
