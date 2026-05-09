@@ -6,7 +6,7 @@ How organisations move from AI experimentation to embedded workflows, strategic 
 ## Professional focus
 AI Business Intelligence Analyst readiness: AI adoption, data accuracy, workflows, SQL, Power BI, Alteryx, APIs, FMCG, sales and distribution.
 
-## PhD focus
+## Research Theme focus
 UK/West Midlands SMEs, generative AI adoption, post-adoption capability conversion, dynamic capabilities, absorptive capacity, responsible AI and business value measurement.
 
 ## This week’s theme
