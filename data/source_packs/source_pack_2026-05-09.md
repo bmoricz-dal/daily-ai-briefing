@@ -1,6 +1,6 @@
 # Daily Source Pack — 2026-05-09
 
-Purpose: source pack for Daily AI, BI, PhD & Faith Briefing.
+Purpose: source pack for Daily AI, BI, Research & Reflection Briefing.
 
 Source quality rule: company blogs are useful primary signals but are not neutral; academic preprints are useful early signals but not necessarily peer-reviewed.
 
@@ -366,11 +366,12 @@ Source quality rule: company blogs are useful primary signals but are not neutra
 - Authors: Kuo-Ming Chu, Hui-Chun Chan
 - Journal/source: Strategic Business Research
 
-### 47. Digital transformation and customer value creation in Made in Italy SMEs: A dynamic capabilities perspective
+### 47. Artificial Intelligence (AI) and Dynamic Capabilities in Marketing: Transforming Business Environments
 - Source: Crossref AI adoption SMEs
 - Type: academic_metadata
-- Published: 2021
-- URL: https://doi.org/10.1016/j.jbusres.2020.10.033
-- DOI: 10.1016/j.jbusres.2020.10.033
-- Authors: Michela Matarazzo, Lara Penco, Giorgia Profumo, Roberto Quaglia
-- Journal/source: Journal of Business Research
+- Published: 2026
+- URL: https://doi.org/10.1108/978-1-80592-897-320261005
+- DOI: 10.1108/978-1-80592-897-320261005
+- Authors: V. A. Namreen Asif, D. Bindhu, Catherine Nirmala
+- Journal/source: Industry Transformation
+- Summary: Artificial intelligence (AI) has emerged as a transformative influence that has completely transformed certain sectors and altered the way businesses operate. The use of AI has yielded multiple advantages across different operational domains inside enterprises, particularly in the realm of marketing, where it has had a substantial and favorable influence. AI technologies have provided marketers with increased tools and knowledge, resulting in exceptional efficiency, customization, and strategic decision-making for campaigns. This study examines the existing use of AI in various marketing roles and explores its possible future development and influence on marketing processes. In an ever-changing environment, organizations must effectively manage intricacy, foster innovation, and maintain their competitive edge. Based on existing AI marketing literature, we use the dynamic capacity theoretical perspective to focus on how firms adjust and thrive in evolving settings. This study emphasizes six crucial marketing domains in which AI offers the potential for significant changes. It aims to provide clarity on the direction for future marketing advancements and strategies. These areas inclu
