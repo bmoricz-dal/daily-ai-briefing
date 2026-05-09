@@ -145,7 +145,7 @@ Use for:
 - retail and wholesale trends
 - sales/distribution relevance
 - supply chain pressures
-- practical DCS-style implications
+- FMCG / sales & distribution practical implications
 
 Caution:
 Some sources may be paywalled or have weak RSS/API access.
@@ -178,7 +178,7 @@ Consulting and professional services content is useful but can be marketing-led.
 
 Each source item should be mentally scored:
 
-5 = directly relevant to AI adoption, BI workflows, FMCG/distribution, SME capability, or PhD topic  
+5 = directly relevant to AI adoption, BI workflows, FMCG/distribution, SME capability, or research theme topic  
 4 = strong AI/business relevance  
 3 = useful background  
 2 = weak relevance  
