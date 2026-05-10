@@ -1,0 +1,60 @@
+name: Export Markdown reports to PDF
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "reports/daily/markdown/**/*.md"
+
+permissions:
+  contents: write
+
+jobs:
+  convert-md-to-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and PDF tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic
+
+      - name: Create PDF folder
+        run: |
+          mkdir -p reports/daily/pdf
+
+      - name: Convert Markdown files to PDF
+        run: |
+          for file in reports/daily/markdown/*.md; do
+            [ -e "$file" ] || continue
+
+            filename=$(basename "$file" .md)
+            output="reports/daily/pdf/${filename}.pdf"
+
+            echo "Converting $file to $output"
+
+            pandoc "$file" \
+              -o "$output" \
+              --pdf-engine=xelatex \
+              -V geometry:margin=1in \
+              -V mainfont="DejaVu Sans" \
+              -V fontsize=11pt \
+              --toc
+          done
+
+      - name: Commit generated PDFs
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add reports/daily/pdf/*.pdf
+
+          if git diff --cached --quiet; then
+            echo "No PDF changes to commit."
+          else
+            git commit -m "Export Markdown reports to PDF"
+            git push
+          fi
