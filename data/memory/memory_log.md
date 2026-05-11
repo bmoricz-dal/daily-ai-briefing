@@ -41,3 +41,23 @@ The source pack remains too dependent on company/vendor blogs and noisy academic
 
 ### Next issue angle
 Move from adoption signals to value evidence: how SMEs and operational teams can measure whether AI improves decision quality, workflow speed, data quality, customer outcomes, or financial performance beyond anecdotal time savings.
+
+## 2026-05-11
+
+### Main theme
+AI and BI value is becoming decision-calibrated: organisations need to match AI use to the risk, reversibility, data quality and workflow maturity of each business decision.
+
+### Strongest insight
+The next maturity step is not “AI everywhere”; it is using AI differently for routine, operational, commercial and strategic decisions, with BI acting as the governed evidence and action layer.
+
+### Strongest source signal
+The strongest combined signal came from Microsoft Power BI’s translytical task flows and Dataflows Gen1/Gen2 direction, MIT Sloan’s decision-calibration framing, and FMCG/supply-chain signals around P&G automation, inventory/replenishment AI and logistics uncertainty.
+
+### Academic note
+Monday’s academic rotation is SME AI adoption, but the source pack did not provide a strong peer-reviewed SME AI adoption paper. The arXiv “When AI Meets Science” item was used only as an early proxy signal for the adoption-versus-transformation problem, not as settled SME evidence.
+
+### Source weaknesses
+Official UK/regional evidence remains weak because the GOV.UK query returned an error. Several FMCG/AI items came through thin Google News summaries rather than primary or deeply reported sources. Vendor blogs remain useful for product direction but should not be treated as neutral proof. OpenAlex/Crossref-style academic discovery still needs tighter filtering to avoid noisy or weak matches.
+
+### Next issue angle
+Build a practical decision taxonomy and measurement scorecard for AI workflows in FMCG, SME and sales/distribution contexts: which decisions can be automated, which need human approval, and which metrics prove business value beyond activity or tool usage.
