@@ -1,0 +1,1282 @@
+{
+  "date": "2026-06-29",
+  "generated_utc": "2026-06-29T11:31:03.221647",
+  "purpose": "Daily source pack for AI, BI, Research & Reflection briefing.",
+  "source_quality_rule": "Prioritise official/primary sources, academic sources, professional insight, reputable news, and specialist industry sources. Company/vendor blogs are useful primary signals but are not neutral. Preprints are not peer-reviewed. News-search results require verification. Manual watchlist entries are reminders to check important sources when the daily feed is thin.",
+  "items": [
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "How agents are transforming work",
+      "published": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Workspace outbound access protection for Power BI reports (Preview)",
+      "published": "Wed, 17 Jun 2026 21:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-reports/ba-p/5193354",
+      "summary": "Workspace outbound access protection (OAP) is a workspace-level control in Microsoft Fabric that lets you constrain where the data inside a workspace can flow. With this preview, OAP support now extends to Power BI reports. The good news for report authors and admins: there's nothing new to configure on the report itself. Protection comes from a single, well-defined rule that the workspace enforces automatically as soon as you turn OAP on.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Org apps with audiences for Power BI and Fabric (Generally Available)",
+      "published": "Tue, 16 Jun 2026 19:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326",
+      "summary": "Announcing general availability of org apps in Power BI and Fabric, including one of the most requested capabilities: audiences.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 5
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
+      "published": "Fri, 26 Jun 2026 14:38:01 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
+      "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a dedicated agent service. We also discuss the role of human oversight in maintaining accountability, and key lessons about task decomposition, orchestration patterns, and cost optimization through prompt caching. By the end, you will understand how to design agentic systems that scale compliance operations without compromising quality or auditability.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Last-mile AI: Pointed at the wrong problems",
+      "published": "Mon, 29 Jun 2026 05:00:00 -0400",
+      "url": "https://www.supplychaindive.com/spons/last-mile-ai-pointed-at-the-wrong-problems/823849/",
+      "summary": "Most last-mile AI investments go to routing but the areas that drive costs and CSAT are untouched.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "Duluth Trading boosts inventory health with SKU cuts, enterprise planning",
+      "published": "Fri, 26 Jun 2026 10:33:45 -0400",
+      "url": "https://www.supplychaindive.com/news/duluth-trading-boosts-inventory-health-with-sku-cuts-enterprise-planning/823796/",
+      "summary": "The workwear retailer reduced inventory levels 25% year over year due to rightsizing buys, clearing excess stock and optimizing receipt scheduling.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "FedEx Freight turns focus toward high-margin shipments",
+      "published": "Fri, 26 Jun 2026 09:52:28 -0400",
+      "url": "https://www.supplychaindive.com/news/fedex-freight-turns-focus-toward-high-margin-shipments/823868/",
+      "summary": "The LTL carrier has its sights set on gaining market share in the healthcare, grocery and technology markets as an independent company.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "How USPS shippers can navigate changes to pricing, parcel measurements",
+      "published": "Fri, 26 Jun 2026 09:48:58 -0400",
+      "url": "https://www.supplychaindive.com/news/how-usps-shippers-can-navigate-changes-to-pricing-parcel-measurements/823336/",
+      "summary": "Customers have ways to mitigate cost pressures that may stem from dimensional reporting tweaks and sub-pound rate changes starting July 12.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Supply Chain Dive",
+      "type": "fmcg_supply_chain_news",
+      "title": "JM Smucker eyes margin boost with lower green coffee commodity costs",
+      "published": "Thu, 25 Jun 2026 11:55:00 -0400",
+      "url": "https://www.supplychaindive.com/news/jm-smucker-eyes-margin-boost-with-lower-green-coffee-commodity-costs/823725/",
+      "summary": "The Folgers coffee maker introduced temporary price reductions due to the lower input costs, but stopped short of permanent cuts.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Speculative development at Questor 96",
+      "published": "Mon, 29 Jun 2026 11:14:08 +0000",
+      "url": "https://www.logisticsmanager.com/speculative-development-at-questor-96/",
+      "summary": "The post Speculative development at Questor 96 appeared first on Logistics Manager .",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "On-Demand: How WES helps warehouses respond to complexity in real time",
+      "published": "Fri, 26 Jun 2026 14:45:57 +0000",
+      "url": "https://www.logisticsmanager.com/webinar-how-wes-helps-warehouses-respond-to-complexity-in-real-time/",
+      "summary": "The post On-Demand: How WES helps warehouses respond to complexity in real time appeared first on Logistics Manager .",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "Linage automates refrigerated warehouse",
+      "published": "Fri, 26 Jun 2026 08:00:54 +0000",
+      "url": "https://www.logisticsmanager.com/linage-automates-refrigerated-warehouse/",
+      "summary": "The post Linage automates refrigerated warehouse appeared first on Logistics Manager .",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "UK DBT creates Supply Chain Centre to battle logistics uncertainty",
+      "published": "Thu, 25 Jun 2026 08:56:00 +0000",
+      "url": "https://www.logisticsmanager.com/uk-dbt-creates-supply-chain-centre-to-battle-logistics-uncertainty/",
+      "summary": "The post UK DBT creates Supply Chain Centre to battle logistics uncertainty appeared first on Logistics Manager .",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Logistics Manager",
+      "type": "logistics_distribution_news",
+      "title": "TMICC shares technology roadmap",
+      "published": "Thu, 25 Jun 2026 08:24:59 +0000",
+      "url": "https://www.logisticsmanager.com/tmicc-shares-technology-roadmap/",
+      "summary": "The post TMICC shares technology roadmap appeared first on Logistics Manager .",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "GOV.UK SMEs digital adoption",
+      "type": "official_policy",
+      "error": "HTTP Error 422: Unknown Error",
+      "url": "https://www.gov.uk/api/search.json?q=SME%20digital%20adoption%20artificial%20intelligence&count=5&order=updated-newest",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "How small businesses are already putting AI to work - Elite Business Magazine",
+      "published": "Thu, 25 Jun 2026 12:39:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSV9YbWQtd25zQm1Ta3VQMTdWcDhjYWZ0MzVJMm5zVUZYRUdkbnVoNDZOUVVfSFcxeE9fM2YyNXFOT1VZdHlzVllSUXV2ODhXeHQzZmlfcFFWSVdNeWt2UXRjTVAxWWRFWDdpMkRjaVI3TXZxb0NLdlRKMXVuM2FUV0l1R1oxdjBvQXBlUmc0Q0pqTGgwRXprc2Z1ZDFZRXdZLWtZS1I5akVnNnNrdUh4YzJlTUhQU0NLT3BBeGFEc0E4NldCYkE?oc=5",
+      "summary": "How small businesses are already putting AI to work Elite Business Magazine",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Interim government response to the AI Champions’ AI Adoption Plans - GOV.UK",
+      "published": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOalFuU0xidDNrVWE4UGdBZEhrZmJSRW52U0hnSW4tWmRHeGdzaHFMZThMVkYwSU1MTEFocTZ6NUNrV3JITlFPR2ZIV1c4Z0dEUFl1SDROelhBQXZGZC1ybUFtWU1ldUZGUnY1YWhzWlR0NWRMNEx3dXB5OXdOLUd1LTNOMkJKU3RTcUFiSlhPTVM5U3dEWFZwQXNDVS1ySi1CZWtIM1MwTmpVTFQzVzFnbS02M3YtXy13T2kxMWU1MkYzOHkwcjk2OWFaZkZVZEs5QW1QeG9sWUNzSDY4LVhsZzk3TGZ2WGV6OE9YRGp4eWFFbkJ4S29TcFlvUQ?oc=5",
+      "summary": "Interim government response to the AI Champions’ AI Adoption Plans GOV.UK",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Only a fifth of small businesses regularly use AI - SME Magazine",
+      "published": "Tue, 09 Jun 2026 11:47:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PbHFhOVJhclljY3FNZERrR01KVDlnWFFXZDJZaHdtU1p5b1B2XzQycEFHS2tGMVZTM083M1RndTlMRFR3SWp1QmVyYXdkSS1zblByMjdaVy04Q0RfYU04aWV0Z0V5ek1pRVlYY0dVVV9TQUtZdzBQY2FFal9YZw?oc=5",
+      "summary": "Only a fifth of small businesses regularly use AI SME Magazine",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "Most UK firms use AI while calling it irrelevant — report - Resultsense",
+      "published": "Fri, 26 Jun 2026 08:37:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOS1zYi1BdTRMTm1LZ0pSQjc1dldiRzZDSzJ3ajlRYms3Q0dWNnVpNlhwcmlDTHU4N0xoMkd6VU9Pc2MtX2VwR3FiME1GYWY0WFpaN3BxOHF6SUp3ZWdDQVRlY1RXUkNfeXNBQmRYbmcza1JVMjZmSGhJNlZjdmw4M2prQ21OQQ?oc=5",
+      "summary": "Most UK firms use AI while calling it irrelevant — report Resultsense",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - UK SME AI adoption",
+      "type": "news_search",
+      "title": "AI for Growth: How we're helping our customers harness the power of AI - Funding Circle",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yc0tUX1VRcm5iM2NhSFVxYjBSTHdKUC16cTRPVWVSMWdZMjVzRldHVllQTjFmTDJPV0N3VWljejNlQ29SOWRINUh5a0lSQWJ0Y2l3WHhGczFvN1M0ZWZFUDlzQV81M0VGMlNQRUxyZw?oc=5",
+      "summary": "AI for Growth: How we're helping our customers harness the power of AI Funding Circle",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - West Midlands AI business",
+      "type": "news_search",
+      "title": "One in five small businesses say Brexit legacy remains a barrier to growth - Credit Connect",
+      "published": "Wed, 24 Jun 2026 07:08:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmE0VHR2RGthbXVRa2xINS1fU3hLY2p3cU9UNFJEelM5emltbXpydnhFRjFyWFRmY0hYSTBQMjFVM0pGdzNwSHJpZklhNW1GTWVxWDFRREJ5NURzelhtTzJpZ3k0REFNVHJvTXVZWmNsazB4VFA3RjYxWXZTWEhCdVRrUHBHWFVkVG9zZmNHRWRFSXBQaHhPbVUyMzU5aXNDejY3Uk1XTFZJVnR4SWRySDdFZzVYQ0xRQkowOFlIZzF4LWF5blhaaXZ4RXg5UVI5ZFNnWFl4OFFTdw?oc=5",
+      "summary": "One in five small businesses say Brexit legacy remains a barrier to growth Credit Connect",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - West Midlands AI business",
+      "type": "news_search",
+      "title": "West Midlands SMEs offered 50 funded AI feasibility reports - Resultsense",
+      "published": "Wed, 03 Jun 2026 09:04:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUF6c3VTSjVpWUpwNnMyQ0loRVNTM2UzRGtudTE4UjZuQ25WUHhydmhNMGFBOUtNZ2FORmxSaVpnY0Fhb0N4OTlSUnRteXBlbTljUWprRlhvanFLZWUwc1U4aVJDUGdlMk9CVW5uNWhCZXNEWE5xbTAzb0dsMGh2NC11S2ZjM0x6M3kyUXFR?oc=5",
+      "summary": "West Midlands SMEs offered 50 funded AI feasibility reports Resultsense",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - FMCG AI supply chain UK",
+      "type": "news_search",
+      "title": "Corvera raises a further £3m for fmcg AI platform - The Grocer",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGdTWm82M2dZZWxyNWVMQnk0Q3lDWkxfbXhYRHo4NThLM1AyVGYtRDg0OG5GMVViaGpydGRrYzNfRE5DS3BVWndXYUxBM2FRUWFxaXk1cGxVZlNnT2ViSzYwWmhzLXJ0c0ZsUjhiblFnb25SOFhiZW5NN0RnZmNPYXhDbzdlM1ZqazZwOGlUdG93WlV1alBQOUZZMnc?oc=5",
+      "summary": "Corvera raises a further £3m for fmcg AI platform The Grocer",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - FMCG AI supply chain UK",
+      "type": "news_search",
+      "title": "AI effect on supply chain costs in retail worldwide 2025 - Statista",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWVqdXQ2ZG4wbF9YWE9VZk5RdWZmNEZYaktlT0RlX0dYNWZ5bmttT1FWR3gxVFV0MFRmc0VZNHRmWXRDRE00aDQtR2kySkhkUS14LWpVRHJTN21jSFR1Qy1ielhLSzhIS0l2bWVwVjJxcmhrRjcyaVlDU1oyaUk5LWNoMlVqOUk?oc=5",
+      "summary": "AI effect on supply chain costs in retail worldwide 2025 Statista",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - FMCG AI supply chain UK",
+      "type": "news_search",
+      "title": "Use Cases of AI in the FMCG Industry with Real Examples - appinventiv.com",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tRnFOYVk1ZXVuVERRZzdkNXNScmJrdUNUemNfLUpSeXZOX3ZXMlVlcHF1UzAyVlJYUnczQWRzVXNESWVHOG52M28xbVpOOVNvdFE?oc=5",
+      "summary": "Use Cases of AI in the FMCG Industry with Real Examples appinventiv.com",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - FMCG AI supply chain UK",
+      "type": "news_search",
+      "title": "London-founded Corvera raises $4.2M to bring agentic AI to CPG supply chains - Tech.eu",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU16eHM0bkZCdHFPcmctd29uVUtpaFhSSzNnelBxaVVLeUpRMFRxd1ZIMmo1aVZha1Ytei0xVUQyUGRFbTZ0RWFoUTJ5TVFwVU9iY2o5eHlpMVdrd0RQZ0VYMF9mUUltczRCZFVFY1dBRGluekdEUG5hc2oyOHVnaktrS2xQcHFMMDNqX281eWJDaVQ2S3ZvS2k1eW5HWUFXbHVkYg?oc=5",
+      "summary": "London-founded Corvera raises $4.2M to bring agentic AI to CPG supply chains Tech.eu",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - retail distribution AI UK",
+      "type": "news_search",
+      "title": "Delivery Accuracy Overtakes Speed In AI Buying Journeys - 365retail.co.uk",
+      "published": "Wed, 24 Jun 2026 20:41:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVm5Fb1A2S0Uwdl91dVdhcVlXNkdXR0RTOHRGQ0lsOC12dU0yemVEWXFWQU02SEVXLUlneE5OLWFNTGREa1ZHS2hiX0paN0JFVDgzbFlna3JTaW9BMEVVTVZYQThtUFpvTktiUGNDS2hrM2w5UFlXWTZRUlY2akEyYVl2TDlMTmc?oc=5",
+      "summary": "Delivery Accuracy Overtakes Speed In AI Buying Journeys 365retail.co.uk",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - retail distribution AI UK",
+      "type": "news_search",
+      "title": "6 ways retailers are augmenting the in-store experience with AI - Retail Gazette",
+      "published": "Mon, 11 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHhHQmlQV2pkOXR4Tk1rc3hUdVBKMzNPQVE0Rno1d1ZvSkszMkxEcXlBbF9qdDNqbWtuQjJUWkEwakQxQmtidGx0end4dEtBYUlTUEhpc3NVUzQ0cS1QazNuN2xaaTN1NWpQemhGNVk5LWRLSlJJNXg5bThqMGVOMEE2bWxFRl9BYktYb21IZEswcWd4RVBURHRZRjZuTldLU1lwSVZsdW1vcUFkOXc?oc=5",
+      "summary": "6 ways retailers are augmenting the in-store experience with AI Retail Gazette",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Top 20 AI Vertical Workflow App CEOs You Need to Know in 2026 - AI Insider",
+      "published": "Fri, 26 Jun 2026 18:29:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTR2UUlDMmpZdEVSczdaLWFCQWk2TE9zN1Y3ODVSRi1tRVU2MnF3c3J5SzdueF90VElGVllRWnZwWHJuamVWeGVPNmRRM2d6bE5Ea2JTdmRFSGhFZElvNjJXWlIzYTg0YXB0NEpJSmNMZlBId3dGcG03LU01WEtkMkVCLWFhaGpLTExKaDdmVlFLblVmYy1kQjBFZ0tVT2J4?oc=5",
+      "summary": "Top 20 AI Vertical Workflow App CEOs You Need to Know in 2026 AI Insider",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "How Are Artificial Intelligence Solutions Reshaping Business Operations in 2026? - vocal.media",
+      "published": "Fri, 12 Jun 2026 06:05:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkRLUnpSdkJDRVh1RHhDcGxZamlacFpqUm50VmpEam4taEdIZWlPNVB1dUk4SF9HVmV0T0ZNY016QnFMOTdLeXRYMm5ENjVma18zYjVEQU50V2VGNjJTdzEyTVRwTkFvbGw0TzFWNUJrc1NjYy1LUGxNcjZ0elJHNzh5Ti1LYnh0dkV6cUhWLV9iajhzY2oydUVGZ2dwRjlIRjcyVURPSDd6Ym56ZndJWGhBbnV0aDlQ?oc=5",
+      "summary": "How Are Artificial Intelligence Solutions Reshaping Business Operations in 2026? vocal.media",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "Why business process reinvention is needed for agentic AI workflows - Computer Weekly",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHVOYUVXSzFfbzY5cXVta0VzaDhkd3plZ2k5ZVpXRmRCVUxOSzhrQTdtSi1PRjNKSzRQTzVraUt5NklnZzdNM2hEMm4wQmFBck1lZVZvcHhIQVRpXzZVNHhrdmlIS0ItWVBZV0hUOVFFdXRrNUpQVURLUnN2S01WQzZMZ0liek56RWdrZmpQbUEyLWdRZFd1djBnY1RFVjlkQTV1dmVIcTlnSVdiX18wbDh0VQ?oc=5",
+      "summary": "Why business process reinvention is needed for agentic AI workflows Computer Weekly",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Google News - business intelligence AI workflow",
+      "type": "news_search",
+      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked - Memeburn",
+      "published": "Mon, 08 Jun 2026 05:12:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+      "summary": "16 Best AI Tools for Business in 2026: Tested & Ranked Memeburn",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI adoption",
+      "type": "academic_preprint",
+      "title": "Implementing GenAI-Supported Learning in Software Engineering and Computer Science Education using Bloom's Taxonomy",
+      "authors": [
+        "Vahid Garousi",
+        "Zafar Jafarov",
+        "Aytan Mövsümova",
+        "Leyla Memmedova",
+        "Hüseyn Mirzayev"
+      ],
+      "published": "2026-06-24T10:44:07Z",
+      "url": "http://arxiv.org/abs/2606.27398v1",
+      "summary": "Context: Generative AI adoption in software engineering education raises opportunities for learning support alongside concerns about superficial learning and academic integrity. Objective: This study investigates how explicit instructional guidance aligned with Bloom's taxonomy supports responsible GenAI use in SE/CS education, exploring student and instructor perceptions of GenAI-supported learning. Method: We designed a Bloom-aligned GenAI framework that articulated appropriate GenAI roles at different cognitive levels. The framework was embedded in course instructions, labs, and assessment across multiple SE/CS courses at Queen's University Belfast and Azerbaijan Technical University. Data were collected via anonymous questionnaires and learning artifacts, analyzed using thematic analysis with Bloom's taxonomy as an analytic lens. Results: Students perceived GenAI as most valuable for higher-order cognitive activities (analysis, evaluation, reflection) and less suitable for foundational learning. Explicit Bloom-level guidance influenced students to use GenAI reflectively, with delayed or intentional non-use when independent thinking was prioritized. Both students and instructors",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI adoption",
+      "type": "academic_preprint",
+      "title": "Directors Duties in the Age of Agentic Artificial Intelligence",
+      "authors": [
+        "Deirdre Ahern"
+      ],
+      "published": "2026-06-18T16:33:35Z",
+      "url": "http://arxiv.org/abs/2606.20453v1",
+      "summary": "As boards engage with the adoption of Artificial Intelligence including agentic AI to drive operational efficiencies, this presents new opportunities for profit maximisation. AI adoption is increasingly identified with employee role displacement and in companies, and the interests of employees as stakeholders require exploration. A novel question posed is whether in an age of AI ascendancy AI may warrant being given stakeholder status as its role in the company approximates or eclipses that of human employees. The article probes four distinct models of corporate purpose within the duty on directors to act in the best interests of the company, the shareholder primacy model, the Enlightened Shareholder value model, the stakeholder friendly model, and the stakeholder value model, highlighting the available scope for directors to accommodate the interests of employees around AI adoption in decision-making by boards around AI. It is concluded that given the degree to which directors are insulated from legal scrutiny in relation to their best interests duty, adopting a wider law in context approach to promote employee welfare would serve the interests of employees, directors and companie",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI adoption",
+      "type": "academic_preprint",
+      "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+      "authors": [
+        "H. Sinan Bank",
+        "Daniel R. Herber",
+        "Thomas Bradley"
+      ],
+      "published": "2026-06-17T22:19:15Z",
+      "url": "http://arxiv.org/abs/2606.19630v1",
+      "summary": "The March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering (SE) became the most downloaded issue in the publication's history and launched a research community that now draws over 250 registrants to its annual workshop. In this article, we trace the progress in AI and SE across three phases (labeled here foundational, applied, and LLM inflection) based on the authors' reading of the field's core papers, and describe our opinions of where the community has converged and where critical gaps remain. Separately, a human-AI agreement literature review leveraging both human expertise and six AI models was performed to assess the relevance of 1,712 INCOSE INSIGHT articles and 889 SERC publications. The results identify five critical research gaps and offer guidance for practitioners navigating AI adoption, assurance, and workforce transformation in SE. We share the agreement data and the AI4SE/SE4AI Explorer web application so readers can compare their own relevance judgments with the human and AI raters.",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI adoption",
+      "type": "academic_preprint",
+      "title": "AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources",
+      "authors": [
+        "Dalia Ali",
+        "Maria José Rodríguez Velázquez",
+        "Manoel Horta Ribeiro",
+        "Vera Liao",
+        "Orestis Papakyriakopoulos"
+      ],
+      "published": "2026-06-16T13:08:27Z",
+      "url": "http://arxiv.org/abs/2606.17887v1",
+      "summary": "Generative AI (GenAI) deployment in the workplace is accelerating rapidly. Nevertheless, questions of who adopts, who benefits, and who is left behind and why are still understudied. In this paper, we investigate these dynamics in the context of a multinational tech company transitioning from a legacy Human Resources (HR) search system to a GenAI-supported system, analyzing search log data, survey data (n=25), and ten semi-structured interviews. Our findings show that adoption depended on the fit between the GenAI system's design assumptions and employees' work positionalities (role, spoken language, tenure). Further, we find that employees' trust in GenAI answers was built through source-checking, comparison among systems, and seeking input from colleagues or HR when in doubt. Our contribution is twofold. First, we provide empirical evidence of workplace GenAI adoption during a live organizational transition, showing that adoption is influenced by factors such as situational fit, search literacy, and trust calibration. It is also further shaped by knowledge conditions such as the system's content quality, employee training, and guidance. Second, we translate these findings into de",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI adoption",
+      "type": "academic_preprint",
+      "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
+      "authors": [
+        "Shuchen Meng"
+      ],
+      "published": "2026-06-13T03:16:54Z",
+      "url": "http://arxiv.org/abs/2606.15078v1",
+      "summary": "We develop a formal theory of cognitive debt: the stock of unverified reasoning obligations that accumulates when individuals use AI as a substitute rather than a complement for first-principles cognition. The model features two state variables per agent, cognitive capital and cognitive debt, and a multiplicative production technology in which cognitive capital functions as collateral that determines the return to AI adoption. We establish six propositions. Rational agents incur positive cognitive debt because the costs are deferred, partially external, and masked by short-run productivity gains. Tranquil periods lower subjective risk assessments, raise AI substitution intensity, and compound leverage, generating a cognitive Minsky moment in which subjective risk falls while true systemic fragility rises. Expected crisis losses are convex in aggregate leverage. Post-crisis, output-target pressure can produce a false-correction loop in which agents patch AI failures with more AI. The decentralised equilibrium over-adopts substitutive AI relative to the social optimum because of systemic risk, cognitive public goods, and arms-race externalities. In a two-type heterogeneous-agent econ",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv generative AI business value",
+      "type": "academic_preprint",
+      "title": "The Impact of LLM-Generated Reviews on Recommender Systems: Textual Shifts, Performance Effects, and Strategic Platform Control",
+      "authors": [
+        "Itzhak Ziv",
+        "Moshe Unger",
+        "Hilah Geva"
+      ],
+      "published": "2025-11-02T09:06:47Z",
+      "url": "http://arxiv.org/abs/2601.02362v1",
+      "summary": "The rise of generative AI technologies is reshaping content-based recommender systems (RSes), which increasingly encounter AI-generated content alongside human-authored content. This study examines how the introduction of AI-generated reviews influences RS performance and business outcomes. We analyze two distinct pathways through which AI content can enter RSes: user-centric, in which individuals use AI tools to refine their reviews, and platform-centric, in which platforms generate synthetic reviews directly from structured metadata. Using a large-scale dataset of hotel reviews from TripAdvisor, we generate synthetic reviews using LLMs and evaluate their impact across the training and deployment phases of RSes. We find that AI-generated reviews differ systematically from human-authored reviews across multiple textual dimensions. Although both user- and platform-centric AI reviews enhance RS performance relative to models without textual data, models trained on human reviews consistently achieve superior performance, underscoring the quality of authentic human data. Human-trained models generalize robustly to AI content, whereas AI-trained models underperform on both content types",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI workflow automation",
+      "type": "academic_preprint",
+      "title": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
+      "authors": [
+        "Xianrui Zeng",
+        "Pengfei Liu",
+        "Yirui Zang",
+        "Yang Shen",
+        "Fei Yu",
+        "Chunlei Yu",
+        "Minghao Liu",
+        "Yang Du"
+      ],
+      "published": "2026-06-25T08:01:07Z",
+      "url": "http://arxiv.org/abs/2606.26722v1",
+      "summary": "The automation of scientific discovery has reached an inflection point. While AI systems now operate instruments, optimize parameters and generate hypotheses, most remain procedural: they execute workflows fixed by human designers. True autonomous science demands epistemic autonomy--the capacity to construct, challenge and revise physical explanations in response to evidence. Here we introduce AHOIS, a multi-agent AI scientist that embeds Socratic midwifery into closed-loop experimentation. A physics-critic agent interrogates hypotheses through causal questioning, constraint checking, counterexample generation and falsification-criteria formulation. We evaluate AHOIS on a real multimode-fibre optical platform, a high-dimensional system with complex wave transformations, indirect detection, environmental drift and multi-modal acquisition. Without prior encoding schemes, classifiers or speckle models, the system autonomously proposed and validated a random-interference encoding hypothesis, discovered task-adaptive sparse-measurement strategies, diagnosed distinct failure modes (encoding instability, fluorescence contamination and detector noise) and translated a published imaging pro",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI workflow automation",
+      "type": "academic_preprint",
+      "title": "Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination",
+      "authors": [
+        "Lasse Dierich",
+        "Orestis Schinas"
+      ],
+      "published": "2026-05-29T12:29:33Z",
+      "url": "http://arxiv.org/abs/2606.11238v2",
+      "summary": "Ship finance is a data-intensive and document-heavy segment of asset-based lending, requiring the integration of financial, technical, contractual, and regulatory information from heterogeneous and largely unstructured sources. Increasing environmental regulation and ESG reporting requirements are adding further complexity to underwriting and loan-origination processes. Recent advances in artificial intelligence (AI), particularly large language models (LLMs), create new opportunities for processing and analysing such information. This paper reviews potential applications of AI in ship finance, with a particular focus on LLM-based systems for document comprehension, information extraction, and workflow automation. We present ShipFinance.ai, a modular agentic architecture to support loan application workflows in ship finance. The proposed system combines an LLM-based extraction module, financial analysis components, external maritime data services, and a controlled document-generation module with a chatbot interface to support the preparation of standardized financing applications. The paper discusses the key challenges for using such models in production. We argue that AI-assisted ",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI workflow automation",
+      "type": "academic_preprint",
+      "title": "Meta-Engineering Harnesses for AI-Native Software Production: A Contract-Driven Adversarial Verification Architecture with Early Deployment Report",
+      "authors": [
+        "Satadru Sengupta",
+        "Tamunokorite Briggs",
+        "Ivan Myshakivskyi"
+      ],
+      "published": "2026-05-25T10:15:24Z",
+      "url": "http://arxiv.org/abs/2605.25665v1",
+      "summary": "AI-native software development is often evaluated at the level of individual models, prompts, or generated artifacts. This framing is insufficient for production environments where software must be continuously produced, verified, deployed, maintained, and adapted across many operational contexts and long time horizons. We present a meta-engineering harness: a software-production architecture that transforms operational and product feature requirements into explicit contracts, routes work through role-specialized AI agents, performs independent and adversarial verification, and continuously improves itself through structured failure classification and outer-loop calibration. The harness is designed for settings in which software delivery is not a one-time project but an ongoing operating function. In our motivating application, CTO-as-a-service for small service firms, the system manages websites, booking flows, payment systems, backoffice workflow automations, and AI-agent interfaces as continuously evolving technical infrastructure rather than one-off deliverables. We describe the layered architecture, including two-pass contract compilation, persistent markdown memory with speci",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI workflow automation",
+      "type": "academic_preprint",
+      "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+      "authors": [
+        "Guiyao Tie",
+        "Jiawen Shi",
+        "Dingjie Song",
+        "Yixiao Huang",
+        "Ziji Sheng",
+        "Xueyang Zhou",
+        "Daizong Liu",
+        "Pan Zhou",
+        "Yongchao Chen",
+        "Ran Xu",
+        "Lifang He",
+        "Qingsong Wen",
+        "Manling Li",
+        "Cong Lu",
+        "Shuai Li",
+        "Pengtao Xie",
+        "Yixuan Yuan",
+        "Rui Meng",
+        "Lei Xing",
+        "Lichao Sun",
+        "Caiming Xiong",
+        "Philip S. Yu",
+        "Jianfeng Gao"
+      ],
+      "published": "2026-05-22T03:40:30Z",
+      "url": "http://arxiv.org/abs/2605.23204v1",
+      "summary": "Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting, and revision. This shift marks a transition from task-level AI for science to workflow-level research automation. Yet current systems remain fragmented, differing in autonomy, domain scope, execution environment, validation mechanism, and human oversight, while still struggling with evidence preservation, reproducibility, weak-direction rejection, provenance tracking, cross-domain robustness, and accountable scientific closure. This survey examines these developments through AutoResearch, defined as the developmental spectrum of AI-powered scientific workflow automation. Within it, Vibe Research denotes the human-steered region of prompt-based assistance and human-verified execution, whereas emerging AI-led systems coordinate larger portions of the discovery loop without achieving robust autonomy. We analyze how research systems redistribute control, evidence, execution, validation, and accountability across workflows and organize the field around five workflow condition",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "arXiv AI workflow automation",
+      "type": "academic_preprint",
+      "title": "DynaMate2: runtime registration of expert-defined tools for agentic scientific workflow automation",
+      "authors": [
+        "Orlando A. Mendible-Barreto",
+        "Ajay Vallabh",
+        "Ubaldo M. Córdova-Figueroa",
+        "Yamil J. Colón"
+      ],
+      "published": "2026-05-20T07:14:18Z",
+      "url": "http://arxiv.org/abs/2605.20819v2",
+      "summary": "Agentic large-language-model systems can coordinate scientific tools, but many implementations remain difficult for domain scientists to extend without modifying the source orchestration code or relying on unconstrained code generation. DynaMate2 is a LangGraph-based multi-agent framework for converting expert-defined Python functions into persistent AI-callable tools. The architecture separates domain execution from LLM supervision: registered tools perform scientific operations, while a supervisor LLM decomposes goals, selects specialist agents, routes inputs, and propagates outputs across steps. DynaMate2 supports: runtime tool registration from inline code, source files, and explicitly requested natural-language specifications; persistent storage of tools, agents, and conversation state; and a web interface for interactive workflow assembly. We demonstrate the framework on a molecular simulation workflow in which a single instruction retrieves a MACE foundation model, builds a NaCl-water configuration, runs an ASE molecular dynamics trajectory, and generates energy and temperature diagnostics. The demonstration illustrates how validated workflow components can be composed into ",
+      "quality_note": "Academic preprint: useful early signal, but not peer-reviewed.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OpenAlex generative AI SMEs",
+      "type": "academic_metadata",
+      "title": "Generative machine learning in professional work and professional service firms : a research agenda",
+      "authors": [
+        "James Faulconbridge",
+        "Kasper Trolle Elmholdt",
+        "Frida Pemer",
+        "Aline Seepma",
+        "Tale Skjølsvik"
+      ],
+      "year": 2026,
+      "published": "2026-06-30",
+      "url": "https://openalex.org/W7117442860",
+      "doi": null,
+      "summary": "This paper addresses the need for an approach to theorizing professional work and professional service firms in the generative machine learning age. We develop an approach using insights from existing literature on digital, algorithmic and artificial intelligence technologies. We seek to extend existing theories whilst also responding to the distinctive characteristics of generative machine learning and the implications for how we theorize change. We argue that an approach is needed focused on emerging and future interdependencies between professionals and generative machine learning, something that implies extending but also reimagining theoretical perspectives on expertise, work and organizations.",
+      "concepts": [
+        "Generative grammar",
+        "Interdependence",
+        "Artificial intelligence",
+        "Work (physics)",
+        "Generative model"
+      ],
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OpenAlex generative AI SMEs",
+      "type": "academic_metadata",
+      "title": "IT Management and Managerial Mindset Transformation: A Critical Subject Review",
+      "authors": [
+        "Noor Thamer",
+        "Mustafa Adnan Madloul Al-Bakri"
+      ],
+      "year": 2026,
+      "published": "2026-06-27",
+      "url": "https://openalex.org/W7166318550",
+      "doi": "https://doi.org/10.57238/csj.2026.1028",
+      "summary": "Purpose: This subject review investigates how Information Technology (IT) Management contributes to reshaping the managerial mindset within contemporary organizations, with particular attention to decision-making behavior, cognitive adaptation, and the mediating role of human factors between technology adoption and organizational performance.Design and Approach: A descriptive-analytical literature review was conducted on peer-reviewed publications retrieved from Scopus, Web of Science, Science Direct, and Google Scholar, covering the period from 2020 to 2025, with a small number of seminal earlier works retained where conceptually indispensable. Thirty-five sources were retained for in-depth analysis after applying inclusion and exclusion criteria, including topical relevance, methodological transparency, and publication in indexed journals or recognized academic presses.Findings: The review indicates that IT Management has shifted from a supportive operational function to a strategic cognitive enabler. Its influence on organizational performance is rarely direct; rather, it is mediated by managerial cognition, organizational culture, and digital readiness. Emerging technologies ar",
+      "concepts": [
+        "Mindset",
+        "Mainstream",
+        "Knowledge management",
+        "Subject (documents)",
+        "Information technology"
+      ],
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OpenAlex generative AI SMEs",
+      "type": "academic_metadata",
+      "title": "The Polas Methodological Fit Framework: A Unified Model for Selecting Research Methods in Social Science Research",
+      "authors": [
+        "Mohammad Rashed Hasan Polas"
+      ],
+      "year": 2026,
+      "published": "2026-06-26",
+      "url": "https://openalex.org/W7166075243",
+      "doi": "https://doi.org/10.66348/hsr.26.v1.n1.a52",
+      "summary": "Selecting an appropriate research method remains a persistent challenge for social science researchers, particularly when research problems are complex and multidimensional. Despite the availability of methodological guidance, a significant gap exists between research questions and methodological choices, resulting in weak theoretical alignment and empirically fragile study designs. This conceptual paper addresses that gap by proposing a structured framework to guide researchers in determining when and why to use quantitative, qualitative, or mixed methods approaches. Drawing on methodological literature, conceptual synthesis techniques, and illustrative examples from practice, the paper introduces the Polas Methodological Fit Framework (PMFF) as a systematic, decision-oriented model for method selection. The study adopts a conceptual research design, integrating theoretical analysis, a review of existing method-selection guidelines, and an applied illustration. The PMFF operationalises method choice through six interrelated dimensions: the Nature of the Research Problem (NRP), the Type of Research Questions (TRQ), the Depth vs. Breadth Requirement (DBR), the Researcher Capacity an",
+      "concepts": [
+        "Management science",
+        "Research methodology",
+        "Conceptual framework",
+        "Computer science",
+        "Phenomenon"
+      ],
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI adoption SMEs",
+      "type": "academic_metadata",
+      "title": "Ai Adoption by Smes: A Dynamic Capabilities Approach",
+      "authors": [
+        "Dominik Gisa",
+        "Rainer Harms"
+      ],
+      "year": "2025",
+      "published": "2025",
+      "url": "https://doi.org/10.2139/ssrn.5333458",
+      "doi": "10.2139/ssrn.5333458",
+      "container": "",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI adoption SMEs",
+      "type": "academic_metadata",
+      "title": "Ai Adoption by Smes: A Dynamic Capabilities Approach",
+      "authors": [
+        "Dominik Gisa",
+        "Rainer Harms"
+      ],
+      "year": "2025",
+      "published": "2025",
+      "url": "https://doi.org/10.2139/ssrn.5334096",
+      "doi": "10.2139/ssrn.5334096",
+      "container": "",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI adoption SMEs",
+      "type": "academic_metadata",
+      "title": "Leading in the Digital Age: Digital Leadership Capabilities, Organizational Innovation Climate, and AI Adoption Intention Among SMEs in Nigeria",
+      "authors": [
+        "Ayodeji Idowu",
+        "Yemisi Tomilola Babalola"
+      ],
+      "year": "2026",
+      "published": "2026",
+      "url": "https://doi.org/10.20944/preprints202605.1631.v1",
+      "doi": "10.20944/preprints202605.1631.v1",
+      "container": "",
+      "summary": "Although small and medium enterprises (SMEs) anchor employment and output across Sub-Saharan Africa, their uptake of artificial intelligence (AI) lags global benchmarks, and prevailing explanations dwell on capital, infrastructure, and institutional voids while overlooking the leadership competencies that determine whether available resources are mobilised at all. Addressing this gap, the present study asks how the digital leadership capabilities of SME owner-managers shape their intention to adopt AI in Nigeria, and through what organizational mechanism and under what boundary condition this influence operates. Anchored in the Diffusion of Innovation Theory and the Tigre–Henriques–Curado model of digital leadership, a cross-sectional survey was administered to owner-managers of registered SMEs drawn from six states; a sample of 390 was derived from a population of 23,290 firms using the Taro Yamane formula with proportionate allocation, and 306 valid responses were retained. Partial Least Squares Structural Equation Modeling (WarpPLS 8.0) was applied after confirming reliability (Cronbach's \\( \\alpha \\): 0.69–0.84; composite reliability: 0.83–0.88), convergent validity (AVE: 0.56–",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI adoption SMEs",
+      "type": "academic_metadata",
+      "title": "Linking Knowledge Creating Capabilities, IT Business Value and Digital Business Value: An Exploratory Study in Japanese SMEs",
+      "authors": [
+        "Christian Riera",
+        "Junichi Iijima"
+      ],
+      "year": "2017",
+      "published": "2017",
+      "url": "https://doi.org/10.5220/0006487900290040",
+      "doi": "10.5220/0006487900290040",
+      "container": "Proceedings of the 9th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI adoption SMEs",
+      "type": "academic_metadata",
+      "title": "AI+Big Data Technology Adoption in SMEs: A Dynamic Capabilities Perspective",
+      "authors": [
+        "Shumin Wang",
+        "Min Huang",
+        "Meili Liu"
+      ],
+      "year": "2026",
+      "published": "2026",
+      "url": "https://doi.org/10.1145/3808707.3808812",
+      "doi": "10.1145/3808707.3808812",
+      "container": "Proceedings of the 2nd International Conference on Digital Management and Information Technology",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI business value",
+      "type": "academic_metadata",
+      "title": "Digital Transformation in SMEs: Developing Digital Business Model Innovations Based on Artificial Intelligence",
+      "authors": [
+        "Tlou Maggie Masenya"
+      ],
+      "year": "2023",
+      "published": "2023",
+      "url": "https://doi.org/10.2174/9789815196719123010006",
+      "doi": "10.2174/9789815196719123010006",
+      "container": "Business Models and Innovative Technologies for SMEs",
+      "summary": "The strategic goal of most organisations is to improve business operations for successful organisational performance. Digital transformation is a time of swift technological changes posing an ongoing challenge for Small and Medium Enterprises (SMEs) to establish high-performance work systems for organisational performance. Hence SMEs are exploring new technologies to stay competitive and develop innovative business models in the digital transformation era. Artificial Intelligence (AI) technologies may enable SMEs to enhance practices and improve their business model innovation strategies. This chapter examined the existing literature on the digital transformation of SMEs by implementing Artificial Intelligence. The goal was to emphasise how AI can significantly change business processes, practices, and overall organisational performance, ultimately supporting the development of digital business models in SMEs. The study's findings indicated that AI holds great potential for SMEs to enhance their business processes, practices, and overall performance, enabling them to better navigate their increasingly competitive environment. Therefore, it is recommended that managers of SMEs explo",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI business value",
+      "type": "academic_metadata",
+      "title": "Artificial Intelligence in Retail",
+      "authors": [
+        "Shantha Mohan"
+      ],
+      "year": "2021",
+      "published": "2021",
+      "url": "https://doi.org/10.4324/9781351032940-7",
+      "doi": "10.4324/9781351032940-7",
+      "container": "Demystifying AI for the Enterprise",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI business value",
+      "type": "academic_metadata",
+      "title": "From AI to digital transformation",
+      "authors": [
+        "Jonny Holmström"
+      ],
+      "year": "2026",
+      "published": "2026",
+      "url": "https://doi.org/10.4324/9781003733881-1",
+      "doi": "10.4324/9781003733881-1",
+      "container": "AI Innovation in Business",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI business value",
+      "type": "academic_metadata",
+      "title": "SMEs Roadmap to Navigate through the Artificial Intelligence and Data Analytics Revolution",
+      "authors": [],
+      "year": "2023",
+      "published": "2023",
+      "url": "https://doi.org/10.1142/9789811272721_0004",
+      "doi": "10.1142/9789811272721_0004",
+      "container": "Accelerating Digital Transformation of SMEs",
+      "summary": "",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Crossref AI business value",
+      "type": "academic_metadata",
+      "title": "Impact of Artificial Intelligence on the Digital Transformation of Business in Russia",
+      "authors": [
+        "R. M. Magomedov"
+      ],
+      "year": "2026",
+      "published": "2026",
+      "url": "https://doi.org/10.26794/3033-7097-2025-1-4-69-75",
+      "doi": "10.26794/3033-7097-2025-1-4-69-75",
+      "container": "Digital Solutions and Artificial Intelligence Technologies",
+      "summary": "This article provides a comprehensive analysis of the artificial intelligence impact on the processes of digital business transformation in Russia. Key government initiatives, the economic effects of the introduction of artificial intelligence into different economic spheres, industry specifics, regional disparities, as well as challenges and country development prospects are considered. The purpose of the present work is to assess the influence degree of artificial intelligence on the digital transformation of business in Russia, to determine the possibility and prospects for introducing artificial intelligence into improve business processes and increase the competitiveness of Russian companies. T he study was carried out using an analysis of the structure and dynamics of the artificial intelligence impact on business development in Russia. Analytical tables and diagrams illustrating the dynamics and scale of changes are provided. Special attention is paid to the role of artificial intelligence as a driver of innovation and increasing the competitiveness of Russian companies in the global digital economy. Artificial intelligence has been introduced into the main processes in 75% ",
+      "quality_note": "Academic metadata: verify relevance and publication details before relying on it.",
+      "relevance_score": 5
+    },
+    {
+      "source": "ONS",
+      "type": "official_watchlist",
+      "title": "ONS business, economy and technology statistics",
+      "url": "https://www.ons.gov.uk/",
+      "summary": "Official UK statistics source. Use for business conditions, labour market, productivity, technology adoption, inflation, retail and economy context. Search manually when the briefing needs official evidence.",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 5
+    },
+    {
+      "source": "OECD AI and SMEs",
+      "type": "official_watchlist",
+      "title": "OECD AI, SMEs, productivity and digital adoption",
+      "url": "https://www.oecd.org/",
+      "summary": "High-quality international source for AI diffusion, SME productivity, digital adoption, policy and business transformation context. Use as official/professional evidence, not daily news.",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 5
+    },
+    {
+      "source": "West Midlands Combined Authority",
+      "type": "regional_watchlist",
+      "title": "West Midlands regional growth, innovation and business support",
+      "url": "https://www.wmca.org.uk/",
+      "summary": "Regional source for West Midlands productivity, innovation, clusters, business support and AI adoption context.",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 5
+    },
+    {
+      "source": "The Grocer",
+      "type": "fmcg_watchlist",
+      "title": "The Grocer - UK FMCG and grocery sector",
+      "url": "https://www.thegrocer.co.uk/",
+      "summary": "Specialist UK FMCG/grocery source. Useful for suppliers, wholesalers, brands, pricing, inflation, retail pressure and distribution signals.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "IGD",
+      "type": "fmcg_watchlist",
+      "title": "IGD - grocery, retail and supply-chain insight",
+      "url": "https://www.igd.com/",
+      "summary": "Specialist grocery and retail insight source. Useful for food, grocery, retail, wholesale and supply-chain context.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Kantar",
+      "type": "fmcg_watchlist",
+      "title": "Kantar retail and FMCG insights",
+      "url": "https://www.kantar.com/uki/industries/retail",
+      "summary": "Professional market insight source for FMCG, retail, consumers and brand performance. Use carefully as professional insight.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "NielsenIQ",
+      "type": "fmcg_watchlist",
+      "title": "NielsenIQ retail and FMCG insights",
+      "url": "https://nielseniq.com/global/en/insights/",
+      "summary": "Professional retail/FMCG data and insight source. Useful for market trends, consumer behaviour and category performance.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Deloitte AI Institute",
+      "type": "professional_watchlist",
+      "title": "Deloitte AI Institute",
+      "url": "https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/deloitte-ai-institute.html",
+      "summary": "Professional services source for AI adoption, governance, risk, enterprise transformation and value realisation.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 5
+    },
+    {
+      "source": "PwC AI insights",
+      "type": "professional_watchlist",
+      "title": "PwC AI and emerging technology insights",
+      "url": "https://www.pwc.com/gx/en/issues/artificial-intelligence.html",
+      "summary": "Professional services source for AI adoption, workforce, risk, productivity and enterprise transformation trends.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 5
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
+      "published": "Tue, 23 Jun 2026 21:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376",
+      "summary": "When you configure a Denodo data connection for Entra ID SSO, users querying a semantic model in DirectQuery mode are authenticated to Denodo with their own Microsoft Entra ID identity.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 4
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
+      "published": "Thu, 25 Jun 2026 17:55:10 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+      "summary": "In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper layers that transform traditional REST-based services into agents capable of participating in A2A interactions. They also expose REST APIs as tools compatible with the Model Context Protocol (MCP). Together, they let enterprises add A2A capabilities to existing REST services without rewriting business logic, without duplicating code, and without running parallel infrastructures. This reduces agent sprawl in the infrastructure by reusing existing services as agents. We provide reference architectures and sample code that show how to build agentic overlays.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 4
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Transforming Investing With AI at Franklin Templeton",
+      "published": "Mon, 29 Jun 2026 11:00:37 +0000",
+      "url": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
+      "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be an early proponent of AI-first in your industry, or a fast follower? [&#8230;]",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 4
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "How companies can strengthen their geopolitical risk readiness",
+      "published": "Thu, 25 Jun 2026",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-companies-can-strengthen-their-geopolitical-risk-readiness",
+      "summary": "Survey results reveal a widening gap between leaders’ assessment of their risk exposure and responsiveness. Five actions can help leaders prepare for a range of outcomes—not just the worst case.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 4
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "published": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Securing the future of AI agents",
+      "published": "Tue, 16 Jun 2026 15:46:31 +0000",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
+      "published": "Wed, 24 Jun 2026 11:22:57 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932",
+      "summary": "How to use sensitivity labels and Protection Policies to secure your Power BI estate — and why it matters more than ever in the age of AI.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Microsoft Power BI Blog",
+      "type": "bi_tooling",
+      "title": "Microsoft Entra ID single sign-on for the Starburst connector in Power BI (Preview)",
+      "published": "Thu, 18 Jun 2026 16:00:00 GMT",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Starburst-connector-in/ba-p/5193371",
+      "summary": "When enabling Microsoft Entra ID single sign-on (SSo) for Starburst (Preview) report viewers querying semantic models in DirectQuery mode authenticate to Starburst with their own Entra ID identity, to Starburst's access policies — including row-level and column-level security rules — are evaluated against the actual end user rather than a fixed connection account.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 3
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "UK mortgage approvals hit two and a half-year low as Iran war drive up borrowing costs – business live",
+      "published": "Mon, 29 Jun 2026 11:13:25 GMT",
+      "url": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
+      "summary": "Rolling coverage of the latest economic and financial news, as mortgage approvals for UK house purchases fell to 56,200 in May Shares in chipmakers underpinning AI boom rocket in first half of 2026 The total value of new mortgage approvals also fell in May. Net borrowing of mortgage debt by individuals decreased to £2.9bn in May, down from £4.4bn in April, the Bank of England reports. “The sharp slowdown in mortgage borrowing and approvals suggests the surge in activity earlier this year has now faded, with buyers and homeowners taking a more cautious approach. While borrowing costs have eased from their recent highs, affordability remains stretched and many prospective buyers continue to contend with elevated house prices and wider cost-of-living pressures. “For lenders, the changing outlook highlights the importance of integrating forward-looking affordability assessments that better reflect real borrower behaviour and lifetime income patterns. As caution rises, these more personalised models can help to sustain housing demand over the coming months. Continue reading...",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 3
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "BT and Verizon to create joint global business in $625m deal",
+      "published": "Mon, 29 Jun 2026 09:32:39 GMT",
+      "url": "https://www.theguardian.com/business/2026/jun/29/bt-verizon-joint-venture-deal-telecoms-international",
+      "summary": "UK telecoms group’s 50/50 venture ends more than 18-month search for a buyer of its international operations Business live – latest updates BT and the US mobile company Verizon are to combine their international businesses, ending the British telecom group’s more than 18-month search for a buyer. Verizon will pay a $625m (£473m) “equalisation” fee to BT to guarantee equal voting rights in the new 50/50 joint venture, the companies announced on Monday. The deal is expected to create a company with more than 3,000 customers across about 180 countries and $4bn in combined annual revenue. Continue reading...",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 3
+    },
+    {
+      "source": "GOV.UK business productivity technology",
+      "type": "official_policy",
+      "error": "HTTP Error 422: Unknown Error",
+      "url": "https://www.gov.uk/api/search.json?q=business%20productivity%20technology%20SME&count=5&order=updated-newest",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Google News - West Midlands AI business",
+      "type": "news_search",
+      "title": "Rishi Sunak: AI can boost small firms, from my mum’s pharmacy to a farm - The Times",
+      "published": "Sat, 27 Jun 2026 11:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFZoeEh5WFFleE9zQ2dZRFhvUUNMLVQ1ZDJ1aFJaa1RRUWppTG5NU29oT0Q3cmJvNVdINzk1NHRaTnZMQ1V3MFVoUl9acjdmTlhrUDNzdDkwX1dZWE5iOUNPWTlIOG1uTnFocXMwSXBWb1lvR2dUMlNTN2szak5fdW4tZTgzN0hrNXBLb19zalAtdw?oc=5",
+      "summary": "Rishi Sunak: AI can boost small firms, from my mum’s pharmacy to a farm The Times",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Google News - West Midlands AI business",
+      "type": "news_search",
+      "title": "Birmingham AI company Unloqs £900k funding - businesscloud.co.uk",
+      "published": "Thu, 25 Jun 2026 12:00:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmZ6U0JzMDZUSW5MOFV4WDlLd1VMNnNsaVdjR1EwMUoxSWloV1NrY1pXTXlfdThYak5xa1lvUWw1VHB5T1dCOFdvSS1CcFhYLWR4WWY3RTZ1WXlSVk5iY2JHeXZ4YmNQeWVMa2VIUS0ybzN0OU5hZERab2owVGJhWA?oc=5",
+      "summary": "Birmingham AI company Unloqs £900k funding businesscloud.co.uk",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Google News - West Midlands AI business",
+      "type": "news_search",
+      "title": "Birmingham AI startup Unloq raises $1.2m to build decision intelligence platform - TheBusinessDesk.com",
+      "published": "Thu, 25 Jun 2026 12:07:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUlZEdV9WaGlnZXlnMUh4cFI3QjFxNzJSSkROOHZlWlBxYnI3Q25ibm5XV0JDNXBCbVhETGJrZlViZHNlVXFsM2ZISVVsTTFXdUIybncxSXJJQnNBR3ZMSnlYLWs5SHlVQ19ENkp5b2swLW03LXhROUhHbnBDVVVHdk9fUHFjcG9GYVpTcmpGYlhoeUl5R2JQSHNiWmJKRVNNc3NUZUtqQkgtMVNyeTZIUFdia1pKcDFMWmtJTHBsdHFMVDAxbGs3Y2RZM2tUc3ExR1Br?oc=5",
+      "summary": "Birmingham AI startup Unloq raises $1.2m to build decision intelligence platform TheBusinessDesk.com",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Business.gov.uk West Midlands",
+      "type": "regional_watchlist",
+      "title": "Business.gov.uk West Midlands investment and regional sector context",
+      "url": "https://www.business.gov.uk/",
+      "summary": "Use for regional sector strengths, investment context and UK government-backed regional business evidence.",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 3
+    },
+    {
+      "source": "British Retail Consortium",
+      "type": "retail_watchlist",
+      "title": "British Retail Consortium",
+      "url": "https://brc.org.uk/",
+      "summary": "Use for UK retail conditions, policy, costs, consumer demand and retail industry pressure.",
+      "quality_note": "Industry specialist source: useful for sector context, but verify with official or independent sources where possible.",
+      "relevance_score": 3
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Investing in multi-agent AI safety research",
+      "published": "Wed, 10 Jun 2026 10:21:19 +0000",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Build interactive PDF text extraction from Amazon S3",
+      "published": "Fri, 26 Jun 2026 14:47:45 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
+      "summary": "In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic document access. You’ll walk through the architecture, set up the server, and run interactive document queries. Along the way, you’ll compare this approach with Amazon Textract so you can decide which tool fits your workload.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
+      "published": "Fri, 26 Jun 2026 14:42:20 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
+      "summary": "In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the AWS services that support the solution. We also share measurable outcomes Cara has delivered for enterprise brokerages.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 2
+    },
+    {
+      "source": "AWS Machine Learning Blog",
+      "type": "ai_data_tooling",
+      "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
+      "published": "Thu, 25 Jun 2026 16:41:47 +0000",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
+      "summary": "This post shows you how to configure training jobs on Amazon SageMaker AI to get the most out of Blackwell’s architecture on AWS. You learn how to select batch sizes and sequence lengths that take advantage of Blackwell’s expanded memory, choose the right precision format for your model size (1B to 64B parameters), and apply activation checkpointing strategically. By the end, you have a practical framework for tuning your training configuration and launching distributed training jobs on P6-B200 instances.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 2
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Leaders at All Levels: How DBS Bank Makes Everyone an Innovator",
+      "published": "Thu, 18 Jun 2026 11:00:12 +0000",
+      "url": "https://sloanreview.mit.edu/video/leaders-at-all-levels-how-dbs-bank-makes-everyone-an-innovator/",
+      "summary": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and individual’s performance review. In this episode of Leaders at All Levels, hosts Katherine W. Isaacs and Michele Zanini speak with Bidyut Dumra, group head of innovation and future of [&#8230;]",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 2
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "Building profit resilience in European private banking",
+      "published": "Fri, 26 Jun 2026",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking",
+      "summary": "Private banks face a critical decision point: Strengthen their business focus and monetization discipline, or risk declining profits.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 2
+    },
+    {
+      "source": "BCG Henderson Institute",
+      "type": "professional_watchlist",
+      "title": "BCG Henderson Institute",
+      "url": "https://bcghendersoninstitute.com/",
+      "summary": "Professional strategy insight source. Use for business model, AI, organisational capability and strategic management framing.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 2
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 1
+    },
+    {
+      "source": "OpenAI News",
+      "type": "company_primary_ai",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "published": "Wed, 24 Jun 2026 06:00:00 GMT",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "published": "Wed, 24 Jun 2026 16:30:01 +0000",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "summary": "",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "published": "Tue, 16 Jun 2026 21:29:50 +0000",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "type": "company_primary_ai",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "published": "Wed, 10 Jun 2026 16:24:11 +0000",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "summary": "",
+      "quality_note": "Company/vendor source: useful primary signal, but not neutral evidence.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "British American Tobacco to cut 9,000 jobs",
+      "published": "Mon, 29 Jun 2026 11:04:10 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
+      "summary": "The company had said earlier this year it was planning savings to make it \"more digital and AI-focused\".",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "South Korea unveils $880bn chip and AI investment plan",
+      "published": "Mon, 29 Jun 2026 08:55:29 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Got the tennis bug? How to play sport without paying",
+      "published": "Sun, 28 Jun 2026 23:06:00 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+      "summary": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
+      "published": "Mon, 29 Jun 2026 05:05:34 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "BBC Business",
+      "type": "independent_news",
+      "title": "Trump threatens 100% tariff on European nations over tech tax",
+      "published": "Sat, 27 Jun 2026 01:37:18 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "British American Tobacco to slash 9,000 jobs as it turns to AI",
+      "published": "Mon, 29 Jun 2026 08:53:22 GMT",
+      "url": "https://www.theguardian.com/business/2026/jun/29/british-american-tobacco-bat-cut-jobs-ai",
+      "summary": "Dunhill maker to cut about a fifth of workforce, aiming to reduce costs and become more ‘technology enabled’ Business live – latest updates British American Tobacco (BAT) will cut about a fifth of its 47,000-strong workforce this year, as the cigarette-maker looks for ways to push down costs and become more “technology enabled”. BAT, which is one of the biggest tobacco groups in the world , has announced it will cut 5,500 jobs by the end of the year and outsource a further 3,500, affecting a ⁠total of 9,000 employees. Continue reading...",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "Good for business – or profit at any cost? The controversial side of private equity – a visual explainer",
+      "published": "Mon, 29 Jun 2026 06:00:33 GMT",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/jun/29/private-equity-visual-explainer-uk-veterinary-sector",
+      "summary": "While it can transform firms for better or worse, the use of private equity in essential services is attracting scrutiny. Here we examine some of its more contentious elements in the UK veterinary sector Private equity could be the two most controversial words in business. For its supporters, it can bring investment, expertise and efficiency to a company. For critics, it is a one way ticket to profiteering, cutting costs and losing staff. The arguments over private equity are particularly fierce when it is used in the public sector, particularly the NHS. Continue reading...",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "The Guardian Business",
+      "type": "independent_news",
+      "title": "New campaign urges public to reduce water use as UK emerges from heatwave",
+      "published": "Mon, 29 Jun 2026 07:00:33 GMT",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/campaign-publicity-drive-reduce-water-use",
+      "summary": "Exclusive: £75m publicity drive will ask people to treat water as precious resource and cut daily use by 28 litres The biggest ever campaign to encourage the public to reduce their water use will launch this week, as the UK emerges from record temperatures attributed to the climate crisis. The £75m publicity drive, called Let’s Save Water, will advise and encourage people to treat water as a precious resource and has a target for everyone to cut their daily use by 28 litres – or two large buckets – from the current average use of about 140 litres a day. Continue reading...",
+      "quality_note": "News source/search result: useful for current signals, but verify details.",
+      "relevance_score": 1
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Redefine What ‘Professionalism’ Means",
+      "published": "Thu, 25 Jun 2026 11:00:39 +0000",
+      "url": "https://sloanreview.mit.edu/article/redefine-what-professionalism-means/",
+      "summary": "Matt Kenyon/Ikon Images “Professionalism” encompasses the broad set of shared beliefs and expectations about how people within an industry or workplace should interact with one another: Think communication style, punctuality, or meeting etiquette. But opinions differ: Cameras on? Cameras off? Do meetings start precisely on the hour? Is arriving a few minutes late acceptable or [&#8230;]",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 1
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Three Approaches to Measuring and Managing AI ROI",
+      "published": "Tue, 23 Jun 2026 11:00:27 +0000",
+      "url": "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/",
+      "summary": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a return — and what kinds of returns — are we getting from all of this AI investment? To many executives, AI ROI still often feels more like art than science: [&#8230;]",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 1
+    },
+    {
+      "source": "MIT Sloan Management Review",
+      "type": "professional_insight",
+      "title": "Resolving Muddled Objectives in Corporate Venture Capital",
+      "published": "Mon, 22 Jun 2026 11:00:14 +0000",
+      "url": "https://sloanreview.mit.edu/article/resolving-muddled-objectives-in-corporate-venture-capital/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units, including those owned by Intel, Cisco, General Electric, Siemens, NTT Docomo, Hitachi, Panasonic, and Sompo. They examined 59 of the most active CVCs tracked by research firm CB Insights from 2017 through 2024 and mapped [&#8230;]",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 1
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "In an AI-driven world, the fastest learner will win: An interview with McKinsey’s Sven Smit",
+      "published": "Fri, 26 Jun 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/in-an-ai-driven-world-the-fastest-learner-will-win-an-interview-with-mckinseys-sven-smit",
+      "summary": "As he steps down as chair of McKinsey Global Institute, Sven considers the current AI moment, where the next big ideas are coming from, and how institutions will harness knowledge in the future.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 1
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "Turning sustainability compliance into a competitive edge",
+      "published": "Fri, 26 Jun 2026",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge",
+      "summary": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 1
+    },
+    {
+      "source": "McKinsey Insights",
+      "type": "professional_insight",
+      "title": "What matters most to investors in 2026 and what it means for companies",
+      "published": "Thu, 25 Jun 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies",
+      "summary": "Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.",
+      "quality_note": "Professional insight source: useful for framing, but may reflect consulting/vendor positioning.",
+      "relevance_score": 1
+    },
+    {
+      "source": "GOV.UK AI business adoption",
+      "type": "official_policy",
+      "error": "HTTP Error 422: Unknown Error",
+      "url": "https://www.gov.uk/api/search.json?q=artificial%20intelligence%20business%20adoption&count=5&order=updated-newest",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 1
+    },
+    {
+      "source": "GOV.UK DSIT AI",
+      "type": "official_policy",
+      "error": "HTTP Error 422: Unknown Error",
+      "url": "https://www.gov.uk/api/search.json?q=DSIT%20artificial%20intelligence%20business&count=5&order=updated-newest",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 1
+    },
+    {
+      "source": "Bank of England",
+      "type": "official_watchlist",
+      "title": "Bank of England business and economy context",
+      "url": "https://www.bankofengland.co.uk/",
+      "summary": "Use for UK macroeconomic context, inflation, interest rates, business conditions and financial stability signals.",
+      "quality_note": "Official/regional source: high credibility, but may be slower-moving than daily news.",
+      "relevance_score": 1
+    }
+  ]
+}
